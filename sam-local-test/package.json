@@ -1,0 +1,10 @@
+{
+  "name": "sam-local-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
